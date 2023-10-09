@@ -18,9 +18,11 @@ Input - HD Webcam
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/hdwebcam.jpg)
 
 Processing - Analysis image using CNN model
+
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/cnn.jpg)
 
 Processing - Control LED based on CNN inference
+
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-cli.jpg)
 
 Output - LED controlled by Arduino board
