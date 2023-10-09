@@ -10,4 +10,4 @@ Computer vision (CV) technology is also one of the enablement technology adopted
 # Risk in Bowtie model
 This is test
 
-![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie-hackaton.jpg)
+![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie-hackathon.jpg)
