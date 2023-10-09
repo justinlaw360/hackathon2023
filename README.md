@@ -27,3 +27,7 @@ Processing - Control LED based on CNN inference
 
 Output - LED controlled by Arduino board
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-LED.jpg)
+
+# 5 mins video
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
