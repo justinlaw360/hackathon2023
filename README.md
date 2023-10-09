@@ -1,4 +1,4 @@
-# hackathon2023
+# Hackathon2023
 Problem statment:  There are incidents that passengers and unaurthorised persson will fall into the rail track and caused injuries or fatal incidents.  It requires a systematic method to detect, analysis and alerts platform operation staff and train driver.
 
 Traditional method uses CCTV and surveillance devices requires intensive man-power to perform monitor.
