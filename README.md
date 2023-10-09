@@ -8,6 +8,9 @@ Therefore, it is proposed to use AI (Artifical Intekkigence) technology to impro
 Computer vision (CV) technology is also one of the enablement technology adopted, it capture the image frame in convert the image into suitable format for CNN model.  CNN model analsysis and inference the result and then feed back to the CV, finally CV combine the original image frame and the inference result for the operators.
 
 # Risk in Bowtie model
-This is test
+Below is the "falling object into track" bowtie model
 
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie-hackathon.jpg)
+
+# Our solution
+
