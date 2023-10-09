@@ -12,5 +12,10 @@ Below is the "falling object into track" bowtie model
 
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie-hackathon.jpg)
 
-# Our solution
+# Our solution - Proof of Concept (PoC)
 
+Input - HD Webcam
+![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/hdwebcam.jpg)
+
+Output - LED controlled by Arduino board
+![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-LED.jpg)
