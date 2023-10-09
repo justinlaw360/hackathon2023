@@ -1,11 +1,13 @@
 # Hackathon2023
-Problem statment:  There are incidents that passengers and unaurthorised persson will fall into the rail track and caused injuries or fatal incidents.  It requires a systematic method to detect, analysis and alerts platform operation staff and train driver.
+Ensuring the safety of rail passengers and staff is of utmost importance for train operators. However, there are occasional incidents where unauthorized individuals accidentally fall onto the rail tracks from platforms, resulting in severe injuries or even fatalities.
 
-Traditional method uses CCTV and surveillance devices requires intensive man-power to perform monitor.
+The conventional approach of relying on Close Circuit Television (CCTV) cameras and human surveillance personnel to monitor rail platforms is resource-intensive. It requires round-the-clock monitoring with multiple staff members diligently observing live video feeds from numerous cameras across stations and platforms. This manual process is susceptible to human error and often leads to delayed response times. Valuable seconds or minutes can be lost between the detection of an incident and the initiation of emergency actions.
 
-Therefore, it is proposed to use AI (Artifical Intekkigence) technology to improve the monitoring in terms of (1) reduce man-power involved and (2) improve the performance by shorten the alert time and focus on the real alert cases (reduce false positive cases).  We use Convolutional Neural Netowrk (CNN) model as the underlying technology to analysis whether unexpected object appeared in an image (or series of image frames).  if it is detected with over 85% confident, it will alert the operator in the form of email, sound and/or LED light.
+To enhance the existing monitoring capabilities, there is a need for an automated computer vision-based solution that can analyze camera feeds in real-time and swiftly detect any unauthorized individuals or objects on the rail tracks. Such a system should reduce the reliance on human resources for monitoring while significantly improving response times through automated alerts. Moreover, it should minimize false alarms by accurately distinguishing between genuine safety incidents and normal activities.
 
-Computer vision (CV) technology is also one of the enablement technology adopted, it capture the image frame in convert the image into suitable format for CNN model.  CNN model analsysis and inference the result and then feed back to the CV, finally CV combine the original image frame and the inference result for the operators.
+Our proposed solution involves the development of an AI-based platform monitoring system utilizing Convolutional Neural Network (CNN) models and computer vision (CV) technology. CV will continuously capture image frames from cameras and feed them into a CNN model for analysis and inference. The CNN will be trained to classify whether the frames depict unexpected objects on the tracks or empty tracks. Upon detecting an incident with over 85% confidence, the system will promptly send alerts via email, sounds, and/or LED lights to operational staff and train drivers, enabling an immediate emergency response.
+
+This proposed solution aims to enhance rail safety by leveraging automated AI-based computer vision, real-time incident detection, and rapid alert generation, effectively addressing the limitations associated with manual monitoring methods.
 
 # Risk in Bowtie model
 Below is the "falling object into track" bowtie model
