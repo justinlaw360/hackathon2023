@@ -1,4 +1,4 @@
-# Hackathon2023
+# Hackathon 2023
 Ensuring the safety of rail passengers and staff is of utmost importance for train operators. However, there are occasional incidents where unauthorized individuals accidentally fall onto the rail tracks from platforms, resulting in severe injuries or even fatalities.
 
 The conventional approach of relying on Close Circuit Television (CCTV) cameras and human surveillance personnel to monitor rail platforms is resource-intensive. It requires round-the-clock monitoring with multiple staff members diligently observing live video feeds from numerous cameras across stations and platforms. This manual process is susceptible to human error and often leads to delayed response times. Valuable seconds or minutes can be lost between the detection of an incident and the initiation of emergency actions.
