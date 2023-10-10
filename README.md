@@ -27,7 +27,7 @@ Below is the "falling object into track" bowtie model
 
 # Our solution - Proof of Concept (PoC)
 
-##### Installing webcam in high risk area, real time video will captured.
+##### Installing webcam in high risk area, real-time video will be captured continuously around the clock.
 
 Input - HD Webcam
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/hdwebcam.jpg)
