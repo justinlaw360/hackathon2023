@@ -27,8 +27,12 @@ Below is the "falling object into track" bowtie model
 
 # Our solution - Proof of Concept (PoC)
 
+##### Installing webcam in high risk area, real time video will captured.
+
 Input - HD Webcam
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/hdwebcam.jpg)
+
+##### real time video will be analysised by a machine learning model using CNN.
 
 Processing - Analysis image using CNN model
 
@@ -38,10 +42,17 @@ Processing - Control LED based on CNN inference
 
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-cli.jpg)
 
+##### if hunman object is detected in the high risk area, LED light will be turned on to alert operational staff.  Sound alert, Email and SMS of course could be triggered.
+
 Output - LED controlled by Arduino board
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-LED.jpg)
 
 # 5 mins video
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+# Further developent
+
+We can add the face recognition capability into the model to identify whether the captured object is MTR staff.  Clock-in and clock-out staff attendance.
+
 
