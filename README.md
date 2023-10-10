@@ -55,7 +55,7 @@ Output - LED controlled by Arduino board
 
 We can add the face recognition capability into the model, so that it can identify whether the captured object is MTR staff.  Clock-in and clock-out staff attendance.
 
-![alt text](https%3A%2F%2Fxailient.com%2Fblog%2Fwhat-does-edge-ai-mean-for-face-recognition-technology%2F&psig=AOvVaw0tjOnvWEAmDIjhQZCsi3HQ&ust=1697036170676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjn9cXe64EDFQAAAAAdAAAAABAE)
+![alt text]([https%3A%2F%2Fxailient.com%2Fblog%2Fwhat-does-edge-ai-mean-for-face-recognition-technology%2F&psig=AOvVaw0tjOnvWEAmDIjhQZCsi3HQ&ust=1697036170676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjn9cXe64EDFQAAAAAdAAAAABAE](https://xailient.com/wp-content/uploads/2022/08/AI-is-at-the-Edge.-What-does-this-mean-for-Face-Recognition-technology.jpg)
 
 ### [2 Hong Kong workers killed by suspected biogas leak at MTR Corp-managed construction site; victims’ families complain of negligence](https://www.scmp.com/news/hong-kong/society/article/3235611/2-hong-kong-workers-dead-after-suspected-biogas-leak-construction-site-west-kowloon-cultural)
 
