@@ -11,10 +11,12 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 
 # Fatal incidents
 ###2023-10-05 
+
 ###[Man dies after falling onto Hong Kong railway track at Tai Wo MTR station on East Rail line](https://www.scmp.com/news/hong-kong/law-and-crime/article/3157601/man-dies-after-falling-hong-kong-railway-track-tai-wo)
 ![alt text](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2021/11/27/b9edd83c-91b0-47ff-8968-477a62e47f62_bd8092c1.jpg?itok=cSCLupUv&v=1637998699)
 
 ###2021-11-06
+
 ###[Elderly man dies in suicide fall on tracks at Mong Kok East MTR station in Hong Kong](https://www.scmp.com/news/hong-kong/transport/article/3155096/elderly-man-dies-after-falling-tracks-mong-kok-east-mtr?campaign=3155096&module=perpetual_scroll_0&pgtype=article)
 ![alt text](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2021/11/06/783b95b0-3ea7-11ec-a1b3-e785d5c8830c_image_hires_143513.JPG?itok=m0v3ZN3U&v=1636180520)
 
