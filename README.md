@@ -32,7 +32,7 @@ Below is the "falling object into track" bowtie model
 Input - HD Webcam
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/hdwebcam.jpg)
 
-##### real time video will be analysised by a machine learning model using CNN.
+##### Real-time video will be analysised by a convolutional neural network (CNN) that is a type of artificial neural network used primarily for image recognition and processing.
 
 Processing - Analysis image using CNN model
 
