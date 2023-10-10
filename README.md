@@ -51,7 +51,7 @@ Output - LED controlled by Arduino board
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
-# Further developent
+# Further developent / opportunity
 
 We can add the face recognition capability into the model, so that it can identify whether the captured object is MTR staff.  Clock-in and clock-out staff attendance.
 
