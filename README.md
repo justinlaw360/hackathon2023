@@ -56,3 +56,5 @@ Output - LED controlled by Arduino board
 We can add the face recognition capability into the model, so that it can identify whether the captured object is MTR staff.  Clock-in and clock-out staff attendance.
 
 ### [2 Hong Kong workers killed by suspected biogas leak at MTR Corp-managed construction site; victims’ families complain of negligence](https://www.scmp.com/news/hong-kong/society/article/3235611/2-hong-kong-workers-dead-after-suspected-biogas-leak-construction-site-west-kowloon-cultural)
+
+![alt text](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2023/09/24/c45a0510-42dd-496b-b84a-87af5cb479b0_8b174091.jpg?itok=U8RQ--ol&v=1695532494)
