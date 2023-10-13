@@ -13,7 +13,9 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 
 ### Incident Figures
 
-
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 ## Recent incidents
 ### 2023-10-05 
