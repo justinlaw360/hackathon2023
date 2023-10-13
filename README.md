@@ -64,7 +64,7 @@ Total |  43 |  23 |
 # Risk in Bowtie model
 Below is the "falling object into track" bowtie model
 
-![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie-hackathon.jpg)
+![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/bowtie.jpg)
 
 # Our solution - Proof of Concept (PoC)
 
