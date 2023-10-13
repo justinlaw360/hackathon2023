@@ -47,6 +47,16 @@ Processing - Control LED based on CNN inference
 Output - LED controlled by Arduino board
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-LED.jpg)
 
+# Advantage of our solution
+
+1. Adoption of cutting edge solution.  The core part of the solution is Convolutional neural network, there are models design to anaylsis images, object detection, objection classification, semantic segmentation, face recognition, etc..., that makes the solutions is scalable to adopt new function and features.
+
+2. The whole solution could be run off-line.  Like the PoC, the CNN is saved on my laptop PC, the Webcam and Ardunio board are connected to the laptop directly.  It is suitable to run on closed network environment, such as the OT network and highly secured network.
+
+3. The solution is home-made by our team, knowledge and skillset could be maintained by us.  Further R&D cost and maintainence cost may be reduced substantially, compared to buy from external vendors.
+
+   
+
 # 5 mins video
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
