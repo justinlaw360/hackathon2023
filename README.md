@@ -10,6 +10,12 @@ Our proposed solution involves the development of an AI-based platform monitorin
 This proposed solution aims to enhance rail safety by leveraging automated AI-based computer vision, real-time incident detection, and rapid alert generation, effectively addressing the limitations associated with manual monitoring methods.
 
 # Fatal incidents
+
+### Incident Figures
+
+
+
+## Recent incidents
 ### 2023-10-05 
 
 ### [Man dies after falling onto Hong Kong railway track at Tai Wo MTR station on East Rail line](https://www.scmp.com/news/hong-kong/law-and-crime/article/3157601/man-dies-after-falling-hong-kong-railway-track-tai-wo)
@@ -19,6 +25,7 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 
 ### [Elderly man dies in suicide fall on tracks at Mong Kok East MTR station in Hong Kong](https://www.scmp.com/news/hong-kong/transport/article/3155096/elderly-man-dies-after-falling-tracks-mong-kok-east-mtr?campaign=3155096&module=perpetual_scroll_0&pgtype=article)
 ![alt text](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2021/11/06/783b95b0-3ea7-11ec-a1b3-e785d5c8830c_image_hires_143513.JPG?itok=m0v3ZN3U&v=1636180520)
+
 
 # Risk in Bowtie model
 Below is the "falling object into track" bowtie model
@@ -54,6 +61,10 @@ Output - LED controlled by Arduino board
 2. The whole solution could be run off-line.  Like the PoC, the CNN is saved on my laptop PC, the Webcam and Ardunio board are connected to the laptop directly.  It is suitable to run on closed network environment, such as the OT network and highly secured network.
 
 3. The solution is home-made by our team, knowledge and skillset could be maintained by us.  Further R&D cost and maintainence cost may be reduced substantially, compared to buy from external vendors.
+
+# Cost
+
+this part for cost
 
    
 
