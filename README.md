@@ -13,9 +13,28 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 
 ### Incident Figures
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Depot | #Number of incident | #Deaths
+--- | --- | --- 
+Depot	Number of falling to Permanent way	Deaths	
+上水站	4	3	75.00%
+九龍塘站	5	3	60.00%
+元朗康樂路輕鐵站	1	0	0.00%
+元朗輕鐵站	1	0	0.00%
+大圍站	6	3	50.00%
+大埔墟站	2	2	100.00%
+太和站	4	3	75.00%
+旺角東站	3	1	33.33%
+沙田站	3	1	33.33%
+火炭站	1	1	100.00%
+粉嶺站	7	5	71.43%
+羅湖站	2	0	0.00%
+落馬洲站	1	0	0.00%
+西九龍站	1	0	0.00%
+觀塘站	1	1	100.00%
+輕鐵元朗總站	1	0	0.00%
+	43	23	
+![image](https://github.com/justinlaw360/hackathon2023/assets/4946026/559b3bd2-5868-4b23-a7fb-4f10f93d6d9d)
+
 
 ## Recent incidents
 ### 2023-10-05 
