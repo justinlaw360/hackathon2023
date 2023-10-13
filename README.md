@@ -16,7 +16,7 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 Depot	| Number of falling to Permanent way | Deaths	| Percent
 --- | --- | --- | --- 
 上水站	 | 4	| 3 |	75.00%
-九龍塘站	| 5 |	3	60.00%
+九龍塘站	| 5 |	3	| 60.00%
 元朗輕鐵站 | 	3 | 	0 | 	0.00%
 大圍站	 | 6	 | 3	 | 50.00%
 大埔墟站	 | 2	 | 2	 | 100.00%
