@@ -13,7 +13,7 @@ This proposed solution aims to enhance rail safety by leveraging automated AI-ba
 
 ### Incident Figures
 
-## Depot	| ## Number of falling to Permanent way | ## Deaths	| ## Percent
+Depot	| Number of falling to Permanent way | Deaths	| Percent
 --- | --- | --- | --- 
 上水站	 | 4	| 3 |	75.00%
 九龍塘站	| 5 |	3	60.00%
