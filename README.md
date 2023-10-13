@@ -59,7 +59,7 @@ Output - LED controlled by Arduino board
 
 # 5 mins video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxefault.jpg)](https://youtu.be/T-DIuvjA)
 
 # Further developent / opportunity
 
