@@ -42,7 +42,7 @@ Processing - Control LED based on CNN inference
 
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-cli.jpg)
 
-##### if hunman object is detected in the high risk area, LED light will be turned on to alert operational staff.  Sound alert, Email and SMS of course could be triggered.
+##### if hunman object is detected in the high risk area, LED light that controlled by an Arduino board, will be turned on to alert operational staff.  Sound alert, Email and SMS of course could be triggered.
 
 Output - LED controlled by Arduino board
 ![alt text](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/arduino-LED.jpg)
