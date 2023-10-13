@@ -34,7 +34,9 @@ Total |  43 |  23 |
 
 
 ### Full List
-![image](https://github.com/justinlaw360/hackathon2023/assets/4946026/a593635f-844e-4679-8d6f-c3238d90d2a2)
+
+![image](https://github.com/justinlaw360/hackathon2023/assets/4946026/7c24f093-4265-4907-b4ee-e1a494a53b35)
+
 
 ## Recent incidents
 ### 2023-10-05 
