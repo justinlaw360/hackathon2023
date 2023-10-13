@@ -9,9 +9,27 @@ Our proposed solution involves the development of an AI-based platform monitorin
 
 This proposed solution aims to enhance rail safety by leveraging automated AI-based computer vision, real-time incident detection, and rapid alert generation, effectively addressing the limitations associated with manual monitoring methods.
 
-# Fatal incidents
+# Falling into permanent way incidents
 
-### Incident Figures
+### Full List
+
+![image](https://github.com/justinlaw360/hackathon2023/assets/4946026/7c24f093-4265-4907-b4ee-e1a494a53b35)
+
+### Analysis
+
+Year	| Number of incident
+--- | ---
+2017 |	4
+2018 |	12
+2019 |	11
+2020 |	1
+2021 |	6
+2022 |	3
+2023 |	6
+Total |	43
+
+
+
 
 Depot	| Number of falling to Permanent way | Deaths	| Percent
 --- | --- | --- | --- 
@@ -30,13 +48,6 @@ Depot	| Number of falling to Permanent way | Deaths	| Percent
 西九龍站	 | 1	 | 0	 | 0.00%
 觀塘站	 | 1	 | 1	 | 100.00%
 Total |  43 |  23 | 
-
-
-
-### Full List
-
-![image](https://github.com/justinlaw360/hackathon2023/assets/4946026/7c24f093-4265-4907-b4ee-e1a494a53b35)
-
 
 ## Recent incidents
 ### 2023-10-05 
