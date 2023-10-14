@@ -117,7 +117,7 @@ Total	 |   	 |  	 | $1,501,200
 
 # 5 mins video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxefault.jpg)](https://youtu.be/T-DIuvjA)
+[![Watch the video](https://www.youtube.com/watch?v=isGNl6OgB5U)]
 
 # Further developent / opportunity
 
