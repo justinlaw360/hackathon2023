@@ -111,7 +111,7 @@ Total	 |   	 |  	 | $501,200
 Software development cost
 Development service | 1	 | $1,000,000	 | $1,000,000
  |  | | 
-Total	 |   	 |  	 | $1,501.200
+Total	 |   	 |  	 | $1,501,200
 
    
 
