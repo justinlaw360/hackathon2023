@@ -101,9 +101,14 @@ Output - LED controlled by Arduino board
 This is the estimated cost of equipment for 1 station
 Equipment	| Unit | Price (HK$)	| Sub-total
 --- | --- | --- | --- 
+ |  | | 
+#Hardware cost for 1 depot
 Server with GPU	 | 1	| $500,000 | $500,000
 Webcam	| 10 |	$100	| $1,000
 MCU (Arduino board) | 	1 | 	$200 | 	$200
+Total	 |   	 |  	 | $501.200
+ |  | | 
+Software development cost
 Development service | 1	 | $1,000,000	 | $1,000.000
 Total	 |   	 |  	 | $1,501.200
 
