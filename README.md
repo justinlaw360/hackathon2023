@@ -117,7 +117,7 @@ Total	 |   	 |  	 | $1,501,200
 
 # 5 mins video
 
-[![Watch the video](https://www.youtube.com/watch?v=isGNl6OgB5U)]
+[![Watch the video](https://raw.githubusercontent.com/justinlaw360/hackathon2023/main/videocover.jpg)(https://www.youtube.com/watch?v=isGNl6OgB5U)]
 
 # Further developent / opportunity
 
